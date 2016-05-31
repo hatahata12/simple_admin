@@ -1,0 +1,21 @@
+{
+    "require" : {
+        "silex/silex": "1.2.1",
+        "doctrine/dbal": "2.5.0-RC1",
+        "monolog/monolog": "1.10.0",
+        "swiftmailer/swiftmailer": "@stable",
+        "igorw/config-service-provider": "1.2.2"
+    },
+    "autoload" : {
+        "psr-0" : {
+            "Admin" : "lib"
+        }
+    },
+    "require-dev": {
+        "tototoshi/staticmock": "1.2.2",
+        "phpunit/phpunit": "4.2.5",
+        "mockery/mockery" : "*",
+        "piece/stagehand-testrunner": "4.0.1",
+        "phpunit/dbunit": "*"
+    }
+}

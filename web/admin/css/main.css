@@ -1,0 +1,8 @@
+.genre_delete {
+    cursor: pointer;
+}
+
+#genre_result {
+    font-size : 20pt;
+    color : #ff0000;
+}

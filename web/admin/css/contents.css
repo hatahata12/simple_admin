@@ -1,0 +1,27 @@
+.big-font {
+    font-size : 18pt;
+}
+
+.normal-font {
+    font-size : 13pt;
+}
+
+.error {
+    color : red;
+    font-size : 15pt;
+}
+
+#_result {
+    font-size : 15pt;
+    font-weight:bold;
+}
+
+.memcache-table {
+table-layout:fixed;
+word-break:break-all;
+}
+
+.memcache-table {
+    table-layout: auto;
+    background-color : #fff;
+}
